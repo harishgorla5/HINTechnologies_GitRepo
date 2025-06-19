@@ -1,0 +1,4 @@
+Understanding the basics git work flow , staging changes , commiting them with messages , ignoring unwanted files, and viewing project history.
+
+
+git status - this command helping what are the files are tracked and untracked .
