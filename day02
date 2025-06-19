@@ -13,3 +13,5 @@ git commit -m "this is day02 on 19June2025" --- this command help move the file 
 git log --oneline --- this command helps you to see the log in single line 
 
 git ignore --- which ever the files i want skip to commit and push 
+
+git push 
