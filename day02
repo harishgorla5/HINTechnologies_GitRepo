@@ -15,3 +15,7 @@ git log --oneline --- this command helps you to see the log in single line
 git ignore --- which ever the files i want skip to commit and push 
 
 git push 
+
+git diff 
+
+git ignore 
